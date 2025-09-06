@@ -1,0 +1,1 @@
+print('wal simulator placeholder')

@@ -1,0 +1,1 @@
+- IAM roles, KMS, VPC, WAF, CloudTrail/GuardDuty

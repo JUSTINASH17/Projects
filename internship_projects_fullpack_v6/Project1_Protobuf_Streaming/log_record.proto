@@ -1,0 +1,3 @@
+syntax = "proto3";
+package logs;
+message LogRecord { int64 ts_epoch_ms=1; string user=2; string action=3; uint64 bytes=4; bool success=5; string ip=6; }
